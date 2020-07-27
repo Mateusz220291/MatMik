@@ -1,0 +1,18 @@
+Cześć! Nazywam się Mateusz Mikła i od pewnego czasu interesuje się programowaniem. W wolnych chwilach lubie również pograć w 
+w siatkówkę i wybrać się na wyprawę wędkarską.
+
+Od kilku lat ciekaw byłem w jaki sposób powstają strony internetowe i przeróżne aplikacje mobilne, niestety poprzez obowiązki
+zawodowe zawsze brakowało czasu. Wszystko zmieniło się wraz z nastaniem pandemii COVID-19 - wtedy to usiadłem do nauki i piszę kod
+aż po dziś dzień.
+
+Swój rozwój ukierunkowałem na szeroko rozwinietą gałąź front-endu. Dotychczas nauczyłem się troche więcej jak podstaw HTML
+i CSS a obecnie swoją uwagę poświęcam na naukę JavaScript.
+
+Stosując technilogie HTML staram się tworzyć przejrzyste i ułożone strony internetowe. Po opanowaniu podstaw skupiam się na opanowaniu semantyki 
+i szlifowaniu wiedzy z zakresu obowiązujących standardów.
+
+Dzięki CSS staram się tworzyć projekty jak najbardziej przyjemne dla oka. Potrafię zaprojektować strony responsywne przy zastosowaniu 
+takich metod jak Flexbox czy Grid. Potrafię również pisać projekty w SCSS i SASS.
+
+JavaScript jest moim docelowym językiem programowania. Staram się w zgodzie z zasadami ES6 tworzyć nowoczesne strony ożywiając tym samym to
+co udało mi się stworzyć w HTML i CSS
