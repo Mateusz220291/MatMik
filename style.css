@@ -161,7 +161,7 @@ nav ul li a {
 /* header */
 
 header {
-  background: url("computer.png") no-repeat;
+  background: url("img/computer.png") no-repeat;
   background-position: 0 45%;
   background-size: 100%, auto;
   width: 100%;
@@ -405,6 +405,7 @@ section.aboutme p {
 
 section.projects>div {
   margin-top: 20px;
+  border: 2px solid #00D9C0;
 }
 
 .projects {
@@ -474,7 +475,7 @@ section.projects>div {
 
   section.projects>div {
     display: flex;
-    border: 2px solid #00D9C0;
+
   }
 
   .photo {
