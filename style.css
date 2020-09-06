@@ -797,9 +797,6 @@ footer {
 }
 
 @media (orientation: landscape) {
-  .contact {
-    height: 50vh;
-  }
 
   .contact h1 {
     font-size: 40px;
