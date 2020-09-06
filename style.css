@@ -303,7 +303,7 @@ h1 span {
 
 @media (orientation: landscape) and (min-width: 1024px) {
   header h1 {
-    font-size: 68px;
+    font-size: 65px;
     padding-left: 7vw;
   }
 
@@ -339,15 +339,19 @@ section.aboutme p {
   text-align: left;
 }
 
-.cv a {
+.cv {
   position: absolute;
+  left: 20%;
+  bottom: 15px;
+  background-color: #00D9C0;
+  border: 2px solid white;
+
+}
+
+.cv a {
   color: white;
   padding: 5px 20px;
   font-size: 20px;
-  background-color: #00D9C0;
-  border: 2px solid white;
-  left: 20%;
-  bottom: 10px;
   transition: 0.5s;
 }
 
@@ -428,8 +432,9 @@ section.aboutme p {
     font-size: 14px;
   }
 
-  .cv a {
+  .cv {
     left: 60%;
+    bottom: 25px;
   }
 
   .githubProfile {
