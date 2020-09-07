@@ -565,6 +565,13 @@ section.projects>div {
   padding: 3px 10px;
 }
 
+.livecode__link:hover {
+  background-color: #00D9C0;
+  color: white;
+  text-decoration: none;
+
+}
+
 .github {
   position: absolute;
   left: 65%;
@@ -575,6 +582,11 @@ section.projects>div {
   font-size: 50px;
   color: #00D9C0;
   transition: 0.5s;
+}
+
+.github__link:hover {
+  color: white;
+  text-decoration: none;
 }
 
 .github__link i {
@@ -629,12 +641,7 @@ section.projects>div {
     font-size: 30px;
   }
 
-  .livecode__link:hover {
-    background-color: #00D9C0;
-    color: white;
-    text-decoration: none;
 
-  }
 
   .github {
     left: 90%
@@ -644,10 +651,7 @@ section.projects>div {
     font-size: 55px;
   }
 
-  .github__link:hover {
-    color: white;
-    text-decoration: none;
-  }
+
 }
 
 @media (orientation: landscape) and (min-width: 600px) {
